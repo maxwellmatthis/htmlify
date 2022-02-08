@@ -16,11 +16,10 @@ You may need to install `opencv-python` using pip.
 
 On MacOS, when conoverting images directly from URL you may run into a SSL-CERT validation error.
 
-To fix this run the following commands:
+To fix this run the following command:
 
 ```bash
-cd /Applications/Python\ 3.8/
-./Install\ Certificates.command
+/Applications/Python\ 3.8/Install\ Certificates.command
 ```
 
 You may need to replace `3.8` with your version.
